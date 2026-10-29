@@ -103,7 +103,3 @@ My goal is to grow as a **Full Stack Developer**, focusing on:
 I'm committed to continuous learning and gaining practical experience through meaningful software projects.
 
 ---
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-stats-extended.vercel.app
