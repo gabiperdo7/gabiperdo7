@@ -1,6 +1,6 @@
 # Hi there! I'm Gabriel Perdomo 👋
 
-### 🎓 Programming Student @ UTN | Aspiring Full Stack Developer
+### 🎓 Programming Student at UTN | Aspiring Full Stack Developer
 
 I'm a **Programming student at Universidad Tecnológica Nacional (UTN), Argentina**, currently working toward becoming a **Full Stack Developer**.
 
